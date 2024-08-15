@@ -1,1 +1,3 @@
-# Portal BNMP---Extraindo-mandados-com-SELENIUM
+# Portal BNMP---Extraindo Mandados
+
+### Executável que extrai mandados do Portal BNMP.
